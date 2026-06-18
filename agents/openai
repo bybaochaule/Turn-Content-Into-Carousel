@@ -1,0 +1,4 @@
+interface:
+  display_name: "Turn Content Into Carousel"
+  short_description: "Convert content into carousel storyboards"
+  default_prompt: "Use $turn-content-into-carousel to convert this article into a LinkedIn carousel storyboard."
